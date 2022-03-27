@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Titre ici</title>
+</head>
+<body>
+    <!-- newsletter white -->
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" >
+        <tr>
+            <td>   
+                <table cellpadding="0" cellspacing="0" border="0" width="960" align="center">
+                    <!-- logo + header -->
+                    <tr>
+                        <td>
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" >
+                                <tr>
+                                    <td align="center">
+                                        <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/title_2x.gif" width="662" alt="It's time to make mom's day" border="0" style="display: block;"></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="bottom" height="80" align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 30px;">
+                                        Get 2-hour delivery on select Mother’s Day gifts for $9.1 <br> Or pick up at the Apple Store.
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="40">
+                        </td>
+                    </tr>
+                    <!-- contenu 1 -->
+                    <tr>
+                        <td >
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #FFF2D7;">
+                                <tr>
+                                    <td>
+                                        <table cellpadding="0" cellspacing="0" border="0" width="300" align="center">
+                                            <tr>
+                                                <td align="center">
+                                                    <table cellpadding="0" cellspacing="0" border="0"> 
+                                                        <tr>
+                                                            <td height="180" valign="bottom" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                Apple Watch SE
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="120" style="font-family: Arial, Helvetica, sans-serif;font-size: 22px;">
+                                                                Give the gift of Apple Watch and she’ll get 3 months of Apple Fitness+ free.2                                                             
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td  style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                From $279 or $11.62/mo.*
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td height="80" >
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <!-- espace entre -->
+                                    <td width="15">
+                                    </td>
+                                    <!-- image -->
+                                    <td align="right">
+                                        <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/yellow_watch_tile_2x.jpg" alt="Apple watch" border="0" width="472" style="display: block;"></a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- spacing -->
+                    <tr>
+                        <td height="15">
+                        </td>
+                    </tr>
+                    <!--  contenu 2 -->
+                    <tr>
+                        <td>
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" >
+                                <!-- box1 -->
+                                <tr>
+                                    <td width="472"  style="background-color: #FDC6BF;">
+                                        <table cellpadding="0" cellspacing="0" border="0" >
+                                            <tr>
+                                                <td valign="top">
+                                                    <img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/last_chance_bands_2x.gif" alt="apple watch bands" width="475"  style="display: block;">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="0" cellspacing="0" border="0" width="400" align="center">
+                                                        <tr>
+                                                            <td  valign="top" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                
+                                                                Apple Watch Bands
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td valign="bottom" height="50" style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                From $49
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td height="80" >
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <!-- espace entre -->
+                                    <td width="15" >
+                                    </td>
+                                    <!-- box2 -->
+                                    <td width="472" style="background-color: #FDC6BF;" >
+                                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="10" cellspacing="0" border="0" width="200" align="center">
+                                                        <tr>
+                                                            <td valign="bottom" height="280"  style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                
+                                                                AirPods
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="50" valign="bottom" style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                From $159
+                                                                or $26.50/mo.*
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td valign="bottom">
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                                <td  align="right">
+                                                    <img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/orange_airpods_tile_a_2x.jpg" alt="" width="209" style="display: block;">
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- spacing -->
+                    <tr>
+                        <td height="15">
+                        </td>
+                    </tr>
+                    <!-- copntenu 3 -->
+                    <tr>
+                        <td >
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #F3E4FB;">
+                                <tr>
+                                    <!-- image -->
+                                    <td>
+                                        <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/purple_iphone_tile_2x.jpg" alt="Apple watch" border="0" width="472" style="display: block;"></a>
+                                    </td>
+                                    <!-- espace entre -->
+                                    <td width="15">
+                                    </td>
+                                    <td>
+                                        <table cellpadding="0" cellspacing="0" border="0" width="300">
+                                            <tr>
+                                                <td align="center">
+                                                    <table cellpadding="0" cellspacing="0" border="0"> 
+                                                        <tr>
+                                                            <td height="180" valign="bottom" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                iPhone 12
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="120" style="font-family: Arial, Helvetica, sans-serif;font-size: 22px;">
+                                                                Give the gift of iPhone or any Apple device and she’ll get 3 months of Apple Arcade free.3                                                             
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td  style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                From $29.12/mo.or $699 before trade-in*
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td height="80" >
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    
+                                    
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- spacing -->
+                    <tr>
+                        <td height="15">
+                        </td>
+                    </tr>
+                    <!--  contenu 4 -->
+                    <tr>
+                        <td>
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" >
+                                <!-- box1 -->
+                                <tr>
+                                    <td width="472"  style="background-color: #D0E5F8;">
+                                        <table cellpadding="0" cellspacing="0" border="0" >
+                                            <tr>
+                                                <td>
+                                                    <img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/blue_giftcard_tile_a_2x.jpg" alt="apple watch bands" width="473" style="display: block;">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="0" cellspacing="0" border="0" width="400" align="center">
+                                                        <tr>
+                                                            <td  valign="top" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                Apple Gift Card
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td valign="bottom" height="40" style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                From $49
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td height="80" >
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <!-- espace entre -->
+                                    <td width="15" >
+                                    </td>
+                                    <!-- box2 -->
+                                    <td width="472" style="background-color: #D0E5F8;" >
+                                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="10" cellspacing="0" border="0" width="200" align="center">
+                                                        <tr>
+                                                            <td valign="bottom" height="350"  style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                MagSafe Accessories
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td valign="bottom" style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                From $39
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td valign="bottom">
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                                <td  align="right">
+                                                    <img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/last_chance_magsafe_a_2x.gif" alt="" width="228" style="display: block;">
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- spacing -->
+                    <tr>
+                        <td height="15">
+                        </td>
+                    </tr>
+                    <!-- copntenu 5 -->
+                    <tr>
+                        <td >
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #E6F9E5;">
+                                <tr>
+                                    <td>
+                                        <table cellpadding="0" cellspacing="0" border="0" width="300" align="center">
+                                            <tr>
+                                                <td align="center">
+                                                    <table cellpadding="0" cellspacing="0" border="0"> 
+                                                        <tr>
+                                                            <td height="180" valign="bottom" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                Apple Watch SE
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="120" style="font-family: Arial, Helvetica, sans-serif;font-size: 22px;">
+                                                                Give the gift of Apple Watch and she’ll get 3 months of Apple Fitness+ free.2                                                             
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td  style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                From $279 or $11.62/mo.*
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td height="80" >
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <!-- espace entre -->
+                                    <td width="15">
+                                    </td>
+                                    <!-- image -->
+                                    <td align="right">
+                                        <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/green_ipad_tile_2x.jpg" alt="Apple watch" border="0" width="472" style="display: block;"></a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- spacing -->
+                    <tr>
+                        <td height="15">
+                        </td>
+                    </tr>
+                    <!--  contenu 6 -->
+                    <tr>
+                        <td>
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" >
+                                <!-- box1 -->
+                                <tr>
+                                    <td width="472"  style="background-color: #F8F8F8;">
+                                        <table cellpadding="0" cellspacing="0" border="0" >
+                                            <tr>
+                                                <td valign="top">
+                                                    <img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/last_chance_homepod_mini_2x.gif" alt="apple watch bands" width="473" style="display: block;">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="0" cellspacing="0" border="0" width="400" align="center">
+                                                        <tr>
+                                                            <td height="100" valign="bottom" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                HomePod mini
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="50" valign="bottom" style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                $99
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td height="80" >
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <!-- espace entre -->
+                                    <td width="15" >
+                                    </td>
+                                    <!-- box2 -->
+                                    <td width="472"  style="background-color: #F8F8F8;">
+                                        <table cellpadding="0" cellspacing="0" border="0" >
+                                            <tr>
+                                                <td>
+                                                    <img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/white_appro_tile_a_2x.jpg" alt="apple watch bands" width="473" style="display: block;">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="0" cellspacing="0" border="0" width="400" align="center">
+                                                        <tr>
+                                                            <td height="100" valign="bottom" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                AirPods Pro
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="50" valign="bottom" style="font-family: Arial, Helvetica, sans-serif;font-size: 18px;">
+                                                                From $249 or $41.50/mo.*
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td height="80" >
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #000; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- spacing -->
+                    <tr>
+                        <td height="15">
+                        </td>
+                    </tr>
+                    <!-- copntenu 7 -->
+                    <tr>
+                        <td >
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #000;">
+                                <tr>
+                                    <!-- image -->
+                                    <td>
+                                        <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/black_mac_tile_2x.jpg" alt="Apple watch" border="0" width="472" style="display: block;"></a>
+                                    </td>
+                                    <!-- espace entre -->
+                                    <td width="15">
+                                    </td>
+                                    <td>
+                                        <table cellpadding="0" cellspacing="0" border="0" width="400" align="center">
+                                            <tr>
+                                                <td align="center">
+                                                    <table cellpadding="0" cellspacing="0" border="0"> 
+                                                        <tr>
+                                                            <td height="180" valign="bottom" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;color:#fff">
+                                                                MacBook Air
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="120" style="font-family: Arial, Helvetica, sans-serif;font-size: 22px;color:#fff">
+                                                                Give the gift of MacBook Air and get 3% back in Daily Cash when you use your Apple Card.                                                           
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td  style="font-family: Arial, Helvetica, sans-serif;font-size: 18px; color: #fff;">
+                                                                From $999 or $83.25/mo.*
+                                                            </td>
+                                                        </tr>
+                                                        <!-- button -->
+                                                        <tr>
+                                                            <td height="80" >
+                                                                <table cellpadding="10" cellspacing="0" border="0" width="100" style="border: 3px solid #fff; border-radius: 40px ;">
+                                                                    <tr>
+                                                                        <td align="center" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+                                                                            <a href="http://www.google.com" target="blank"  style="text-decoration: none; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><strong>Shop</strong></a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- spacing -->
+                    <tr>
+                        <td height="40">
+                        </td>
+                    </tr>
+                    <!-- shop more gift -->
+                    <tr>
+                        <td height="100" valign="top" align="center">
+                            <a href="http://www.google.com" target="_blank" style="font-family: Arial, Helvetica, sans-serif;text-decoration: none; color: #0066CC; font-size: 30px;">Shop more gifts for Mom’s day &#8250</a>
+                        </td>
+                    </tr>
+                    <!-- copntenu 8 -->
+                    <tr>
+                        <td height="480" >
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #F8F8F8;">
+                                <tr>
+                                    <td>
+                                        <table cellpadding="0" cellspacing="0" border="0" width="300" align="center">
+                                            <tr>
+                                                <td align="center">
+                                                    <table cellpadding="0" cellspacing="0" border="0"> 
+                                                        <tr>
+                                                            <td height="80" valign="bottom" style="font-size: 30px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+                                                                Make her something from the heart.
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="70">
+                                                                <a href="http://www.google.com" target="_blank" style="font-family: Arial, Helvetica, sans-serif;text-decoration: none; color: #0066CC; font-size: 24px;">Get started &#8250</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <!-- espace entre -->
+                                    <td width="15">
+                                    </td>
+                                    <!-- image -->
+                                    <td align="center" height="480" valign="bottom">
+                                        <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/taa_2x.png" alt="Apple watch" border="0" width="380" style="display: block;"></a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- spacing -->
+                    <tr>
+                        <td height="15">
+                        </td>
+                    </tr>
+                    <!-- Shopping at apple-->
+                    <tr>
+                        <td height="150" align="center" width="20" style="font-family: Arial, Helvetica, sans-serif; font-size: 40px;">
+                            <p style="line-height:0;">Shopping at Apple does it all.</p>
+                            Just like Mom. 
+                        </td>
+                    </tr>
+                    <!-- 6 logo contenu 9 -->
+                    <tr>
+                        <td height="640">
+                            <table cellpadding="10" cellspacing="0" border="0" width="100%">
+                                <!-- ligne1 -->
+                                <tr>
+                                    <td width="320" align="center" height="300" >
+                                        <table cellpadding="20" cellspacing="0" border="0" width="280">
+                                            <tr>
+                                                <td align="center">
+                                                    <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/vp_icons_delivery_2x.png" alt="Icone de livraison" border="0" width="79" style="display: block;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">
+                                                    Get free, no‑contact delivery for your gifts
+                                                </td>
+                                            </tr>
+                                        </table>                                        
+                                    </td>
+                                    <td width="320" align="center" >
+                                        <table cellpadding="20" cellspacing="0" border="0" width="280">
+                                            <tr>
+                                                <td align="center">
+                                                    <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/vp_icons_3_2x.png" alt="Icone de livraison" border="0" width="79" style="display: block;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">
+                                                    Get 3% back in Daily Cash with Apple Card
+                                                </td>
+                                            </tr>
+                                        </table>                                        
+                                    </td>
+                                    <td width="320" align="center"  >
+                                        <table cellpadding="20" cellspacing="0" border="0" width="280">
+                                            <tr>
+                                                <td align="center">
+                                                    <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/vp_icons_trade_2x.png" alt="Icone de livraison" border="0" width="79" style="display: block;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">
+                                                    Trade in an old
+                                                    device and save
+                                                </td>
+                                            </tr>
+                                        </table>                                        
+                                    </td>
+                                </tr>
+                                <!-- ligne2 -->
+                                <tr>
+                                    <td width="320" align="center" height="300" >
+                                        <table cellpadding="20" cellspacing="0" border="0" width="280">
+                                            <tr>
+                                                <td align="center">
+                                                    <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/vp_icons_sessions_2x.png" alt="Icone de livraison" border="0" width="79" style="display: block;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">
+                                                    Get her started with online sessions
+                                                </td>
+                                            </tr>
+                                        </table>                                        
+                                    </td>
+                                    <td width="320" align="center" >
+                                        <table cellpadding="20" cellspacing="0" border="0" width="280">
+                                            <tr>
+                                                <td align="center">
+                                                    <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/vp_icons_specialist_2x.png" alt="Icone de livraison" border="0" width="79" style="display: block;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">
+                                                    Shop online with a Specialist
+                                                </td>
+                                            </tr>
+                                        </table>                                        
+                                    </td>
+                                    <td width="320" align="center" >
+                                        <table cellpadding="20" cellspacing="0" border="0" width="280">
+                                            <tr>
+                                                <td align="center">
+                                                    <a href="http://www.google.com" target="_blank"><img src="http://cepegra-labs.be/webdesign/fed2021/pierredu/NewsLetters/test-blanc/vp_icons_pickup_2x.png" alt="Icone de livraison" border="0" width="79" style="display: block;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">
+                                                    Get convenient, safer pickup at
+                                                    the Apple Store
+                                                </td>
+                                            </tr>
+                                        </table>                                        
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>             
+            </td>
+        </tr>
+    </table>
+    <!-- newsletter grey -->
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #F5F5F7 ;">
+        <tr>
+            <td>
+                <table cellpadding="0" cellspacing="0" border="0" width="960" align="center">
+                    <!-- navigation -->
+                    <tr>
+                        <td height="80" style="border-bottom: 1px solid #999;">
+                            <table cellpadding="0" cellspacing="0" border="0" width="750" align="center">
+                                <tr>
+                                    <td width="230" align="center" style="border-right: 1px solid #555;">
+                                        <a href="http://www.google.com" target="_bnlank" style="text-decoration: none;color:#555; font-size: 18px;">Shop Online</a>
+                                    </td>
+                                    <td width="230"  align="center" style="border-right: 1px solid #555;">
+                                        <a href="http://www.google.com" target="_bnlank" style="text-decoration: none;color:#555; font-size: 18px;">Find a Store</a>
+                                    </td>
+                                    <td width="230"  align="center" style="border-right: 1px solid #555;">
+                                        <a href="http://www.google.com" target="_bnlank" style="text-decoration: none;color:#555; font-size: 18px;">1-800-MY-APPLE </a> 
+                                    </td>
+                                    <td width="270"  align="center">
+                                        <a href="http://www.google.com" target="_bnlank" style="text-decoration: none;color:#555; font-size: 18px;">Get the Apple Store App</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- texte -->
+                    <tr>
+                        <td style="color:#999; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 18px;" >
+                            <p>1. 2-hour delivery is subject to product availability. Available in select metros. Delivery times may vary. Terms apply.</p>
+                            <p>2. $9.99/month after free trial. No commitment. Plan automatically renews after trial until cancelled.</p>
+                            <p>3. $4.99/month after free trial. One subscription per Family Sharing group. Offer good for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other terms apply.</p>
+                            <p>4. $4.99/month after free trial. One subscription per Family Sharing group. Offer good for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other terms apply.</p>
+                            <p>* Apple Card Monthly Installments is available for certain Apple products and is subject to credit approval and credit limit. See support.apple.com/kb/HT211204 for more information about eligible products. iPhone activation required on iPhone purchases made at an Apple Store with one of these national carriers: AT&#x26;T, Sprint, Verizon, or T-Mobile. Variable APRs for Apple Card other than Apple Card Monthly Installments range from 10.99% to 21.99% based on creditworthiness. Rates as of April 1, 2020. Taxes and shipping are not included in Apple Card Monthly Installments and are subject to your standard purchase APR. See the Apple Card Customer Agreement for more information.</p>
+                            <p>To access and use all the features of Apple Card, you must add Apple Card to Wallet on an iPhone or iPad with iOS or iPadOS 13.2 or later. Update to the latest version of iOS or iPadOS by going to Settings > General > Software Update. Tap Download and Install.
+                            </p>
+                            <p>Available for qualifying applicants in the United States.</p>
+                            <p>Apple Card is issued by Goldman Sachs Bank USA, Salt Lake City Branch.</p>
+                            <p>If you reside in the US territories, please call Goldman Sachs at 877-255-5923 with questions about Apple Card.</p>
+                            <p>TM and © 2021 Apple Inc. One Apple Park Way, MS 96-DM, Cupertino, CA 95014.</p>
+                            <p><a href="http://www.google.com" target="blank" style="text-decoration: none; color: #555; font-family: Arial, Helvetica, sans-serif;">All Rights Reserved</a>   |   <a href="http://www.google.com" target="blank" style="text-decoration: none; color: #555; font-family: Arial, Helvetica, sans-serif;">Privacy Policy</a>   |   <a href="http://www.google.com" target="blank" style="text-decoration: none; color: #555; font-family: Arial, Helvetica, sans-serif;">My Apple ID</a></p>
+                            <p>If you prefer not to receive commercial email from Apple, or if you’ve changed your email address, please click here.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
